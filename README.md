@@ -7,7 +7,6 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ### My Stats :
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=labinochka)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labinochka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **labinochka/labinochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
