@@ -9,8 +9,6 @@ I am a student of Kazan Federal University in the direction of "Software Enginee
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ### My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labinochka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-### My achievments :
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=marina111&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **labinochka/labinochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
